@@ -7,7 +7,7 @@
 </h1>
 
 
-- 🖥️ Computer engineer in training
+- 🖥️ Computer engineer in training, front-end developer but also with back-end knowledge, looking for job
 
 
 
@@ -18,20 +18,29 @@
     
 </div>
   
+
+<div style="display: inline_block"><br>
+  
+    
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,azure,arduino,cs,nodejs,lua)](https://skillicons.dev)
+ 
+</div>
  
   
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   
  
  
+
 
   
   ##
   
   <div>
+  <a href="https://linkedin.com/in/daniel-chaves-544059205/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+  <a href="https://www.instagram.com/lil.chaves/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+ 	<a href="https://twitter.com/lilkirito99" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" target="_blank">
+ 
     
-  <a href="https://www.instagram.com/lil.chaves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/lilkirito99" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  <a href = "mailto:dccastro.7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    ![Snake animation](https://github.com/lilkirito22/lilkirito22/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lilkirito22/lilkirito22/blob/output/github-contribution-grid-snake.svg)
   
   </div>
