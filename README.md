@@ -7,14 +7,11 @@
 </h1>
 
 
-- 🌱 I’m currently learning html, css, javascript and computer science
+- 🖥️ Computer engineer in training
 
 
-<div align="center">
-  <a href="https://github.com/lilkirito22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilkirito22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilkirito22&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
