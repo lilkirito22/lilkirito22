@@ -12,11 +12,11 @@
 
 - 🖥️ I´m currently on college of **computer engineering**
 
-- 🌱 I’m currently learning **react, react native**
+- 🌱 I’m currently learning **Ai development, AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://chavdev.netlify.app](https://chavdev.netlify.app)
 
-- 💬 Ask me about **formula 1, football or react**
+- 💬 Ask me about **formula 1, football or AI**
 
 - 📫 How to reach me **dccastro.7@gmail.com**
 
