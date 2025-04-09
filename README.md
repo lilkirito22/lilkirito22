@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://chavdev.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Daniel Chaves</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate AI developer from Brazil</h3>
 <p>
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 </p>
